@@ -1,0 +1,12 @@
+
+.detail-box-style{
+  display: flex;
+  justify-content: center;
+}
+.country-detail{
+    margin: 20px;
+    padding: 20px;
+    border: .5px solid lightgray;
+    width: 370px;
+  
+}

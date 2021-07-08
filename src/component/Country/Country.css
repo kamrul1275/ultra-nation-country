@@ -1,0 +1,11 @@
+.country-box{
+    width: 18.2rem;
+    height: 370px;
+    margin: 20px;
+    text-align: center;
+    /* border: none; */
+    border: 1px solid lightgray;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 40px lightgray;
+    /* background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
+}
